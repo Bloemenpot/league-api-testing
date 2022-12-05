@@ -1,6 +1,6 @@
 var submitButton = document.getElementById("submitButton");
 var body = document.querySelector('body');
-var riotApiKey = "RGAPI-fb84cabe-3dc0-460e-a42d-80f7ada8402f";
+var riotApiKey = "";
 var cors = '';
 var version = "11.1.1"
 
